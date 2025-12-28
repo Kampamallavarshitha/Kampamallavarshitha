@@ -37,16 +37,24 @@ Power BI Excel (Pivot Tables, VLOOKUP)
 Git GitHub Jupyter Notebook
 Google Colab
 
-🌟 Featured Projects
-Project	Description	Tech
-💳 Credit Card Fraud Detection	ML-based system to detect fraudulent transactions	Python, Scikit-learn
-🤖 Multimodal RAG-Based AI System	Retrieval-Augmented Generation system for intelligent querying	Python, LLMs, LangChain
-🧬 Probiotics Data Analysis & Prediction	Data analysis and prediction on probiotics datasets	Pandas, NumPy, ML
-💄 Facial Products Price Estimation	Price prediction with Power BI dashboards	Python, Power BI
-🌅 Commit Time Analysis (example format like Avinash)
 
+🌟 Featured Projects
+| Project                                      | Description                                                    | Tech                    |
+| -------------------------------------------- | -------------------------------------------------------------- | ----------------------- |
+| 💳 **Credit Card Fraud Detection**           | ML-based system to detect fraudulent transactions              | Python, Scikit-learn    |
+| 🤖 **Multimodal RAG-Based AI System**        | Retrieval-Augmented Generation system for intelligent querying | Python, LLMs, LangChain |
+| 🧬 **Probiotics Data Analysis & Prediction** | Data analysis and prediction on probiotics datasets            | Pandas, NumPy, ML       |
+| 💄 **Facial Products Price Estimation**      | Price prediction with Power BI dashboards                      | Python, Power BI        |
+
+🌅 Commit Time Analysis
 🌞 Morning 🌇 Daytime 🌆 Evening 🌙 Night
 ░░░░░░░░░░ ██████░░░░░ ████████░░░ ███████░░░
 15%   30%   35%   20%
 
+
+🌐 Connect With Me
+🔗 LinkedIn: linkedin.com/in/varshitha32
+📧 Email: kampallavarshitha@gmail.com
+
+🧩 “Data tells stories — I turn them into insights.”
 Most of my commits happen during evening & night learning sessions 🚀
