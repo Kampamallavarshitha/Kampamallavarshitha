@@ -14,8 +14,7 @@ Passionate about transforming data into insights, building analytical solutions,
 
 🔧 Skills & Tools
 💬 Languages
-
-Python SQL
+    Python,SQL
 
 🤖 Machine Learning & AI
 
@@ -24,17 +23,17 @@ Large Language Models (LLMs)
 
 📈 Data Science & Analytics
 
-Pandas NumPy Matplotlib Seaborn
+Pandas,NumPy, Matplotlib, Seaborn
 Exploratory Data Analysis (EDA)
 Feature Engineering
 
 📊 Data Visualization
 
-Power BI Excel (Pivot Tables, VLOOKUP)
+Power BI ,Excel (Pivot Tables, VLOOKUP)
 
 🧰 Tools & Platforms
 
-Git GitHub Jupyter Notebook
+Git ,GitHub ,Jupyter Notebook
 Google Colab
 
 
